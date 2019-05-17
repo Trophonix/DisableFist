@@ -1,0 +1,9 @@
+name: "DisableFist"
+version: "${project.version}"
+api-version: "1.13"
+author: trophonix
+main: com.trophonix.disablefist.DisableFistPlugin
+commands:
+  disablefist:
+    description: "Disablefist admin command"
+    permission: "disablefist.admin"

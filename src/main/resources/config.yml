@@ -1,0 +1,14 @@
+#
+# DisableFist by Trophonix
+# - - - - - - - - -
+# Change mode between "cancel" or "nodamage".
+#  "cancel" will completely cancel damage event.
+#  "nodamage" will set damage to 0 but leave the punch animation
+#
+# If allEntities is true, fist damage to all entites will be disabled.
+#   Else, it will only disable fist damage to players.
+#
+
+mode: "cancel"
+allEntities: false
+disableForCreative: false
